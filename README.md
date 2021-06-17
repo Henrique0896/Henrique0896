@@ -1,7 +1,7 @@
  # <a href="https://www.linkedin.com/in/barrosohenriquelima/">Henrique Lima</a>
  
 ## About Me
-Tenho 25 anos e sou desenvolvedor junior. Atualmente, faço Sistemas de Informação na UFVJM - Universidade Federal dos Vales Jequitinhonha e Mucuri (Diamantina, MG), estudo na YourChoice Languages onde aprendo inglês, também faço estágio na Minas Vale Tecnologia.
+Tenho 25 anos e sou desenvolvedor junior. Atualmente, faço Sistemas de Informação na UFVJM - Universidade Federal dos Vales Jequitinhonha e Mucuri (Diamantina, MG), estudo na YourChoice Languages onde aprendo inglês, também faço estágio na DTI Digital.
 <br>
 
 ## Technologies
