@@ -1,13 +1,12 @@
  # <a href="https://www.linkedin.com/in/barrosohenriquelima/">Henrique Lima</a>
  
 ## About Me
-Tenho 25 anos e sou desenvolvedor junior. Atualmente, faço Sistemas de Informação na UFVJM - Universidade Federal dos Vales Jequitinhonha e Mucuri (Diamantina, MG), estudo na YourChoice Languages onde aprendo inglês, sou crafter da DTI Digital.
+Sou desenvolvedor formado em sistemas de informação pela UFVJM. Atualmente atuo na DTI Digital.
 <br>
 
 ## Technologies
 - Frontend com HTML, CSS, JS, Bootstrap, ReactJS, React Native e Vue.
-- Backend com Python, Java, PHP e C#
-- Wordpress
+- Backend com Python e C#
 - UI Design utilizando Figma
 
 
