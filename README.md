@@ -1,25 +1,24 @@
- # <a href="https://www.linkedin.com/in/barrosohenriquelima/">Henrique Lima</a>
- 
-## About Me
-Sou desenvolvedor formado em sistemas de informação pela UFVJM. Atualmente atuo na DTI Digital.
-<br>
+# Hey, I'm Henrique 👋
 
-## Technologies
-- Frontend com HTML, CSS, JS, Bootstrap, ReactJS, React Native e Vue.
-- Backend com Python e C#
-- UI Design utilizando Figma
+Full Stack Engineer with 5+ years building distributed systems that scale.
+Currently consulting for Dell Technologies @ Stefanini Brasil.
 
+---
 
-**Languages and Tools:**  
+### 🛠 What I work with
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 
+---
 
-##  Contact Me
-- <a href="https://www.linkedin.com/in/barrosohenriquelima/">Linkedin</a>
-- <a href="mailto:henrique.lima@ufvjm.edu.br">E-mail</a>
-- <a href="https://www.instagram.com/its_henrique/">Instagram Pessoal</a>
+### 📬 Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-limahb-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/limahb)
+[![Portfolio](https://img.shields.io/badge/Portfolio-henriquelima.net-000000?style=flat&logo=vercel)](https://henriquelima.net)
+[![Email](https://img.shields.io/badge/Email-barrosohenriquelima@gmail.com-EA4335?style=flat&logo=gmail)](mailto:barrosohenriquelima@gmail.com)
